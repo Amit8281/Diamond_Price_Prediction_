@@ -1,4 +1,4 @@
-# MAchine Learning Projects
+# Diamond Price Prediction
 
 
 ## Activate Environment
